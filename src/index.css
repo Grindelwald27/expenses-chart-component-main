@@ -1,0 +1,91 @@
+body {
+    font-family: "DM Sans";
+    background: hsl(27, 66%, 92%);
+    font-size: 16px;
+}
+
+.container {
+    margin: auto;
+    width: 90%;
+    max-width: 450px;
+}
+
+header {
+    border-radius: 10px;
+    background: hsl(10, 79%, 65%);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 30px 20px 20px;
+}
+
+header p {
+    font-size: 1.0rem;
+    margin: 5px;
+    opacity: 0.8;
+}
+
+#number {
+    font-size: 1.5rem;
+    font-weight: bold;
+    letter-spacing: 2px;
+    opacity: 1.0;
+}
+
+main {
+    background: hsl(33, 100%, 98%);
+    border-radius: 10px;
+    padding: 10px 20px;
+    margin-top: 15px;
+    color: hsl(28, 10%, 53%);
+}
+
+main h1 {
+    font-size: 1.3rem;
+    color: hsl(25, 47%, 15%);
+    font-weight: bolder;
+}
+
+#graphic {
+    margin: 50px 0px 20px;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: flex-end;
+    border-bottom: 2px solid rgba(147, 134, 123, 0.2);
+}
+
+#total {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-bottom: 20px;
+}
+
+#total-month p {
+    margin: 5px;
+    opacity: 0.8;
+}
+
+#number-final {
+    margin: 0;
+    font-size: 2.0rem;
+    font-weight: bold;
+    letter-spacing: 2px;
+    opacity: 1.0;
+    color: hsl(25, 47%, 15%);
+}
+
+#percentage {
+    text-align: right;
+}
+
+#perc{
+    color: hsl(25, 47%, 15%);
+    font-weight: bolder;
+}
+
+#percentage p {
+    margin: 0;
+}

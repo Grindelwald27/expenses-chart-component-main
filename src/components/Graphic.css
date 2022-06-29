@@ -1,0 +1,45 @@
+.col {
+    width: 35px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.col .column {
+    background: hsl(10, 79%, 65%);
+    border-radius: 5px;
+}
+
+#mon{
+    height: 50px;
+}
+
+#tue {
+    height: 100px;
+}
+
+#wed {
+    height: 150px;
+    background: hsl(186, 34%, 60%);
+}
+
+#mon:hover, #tue:hover, #wed:hover, #thu:hover, #fri:hover, #sat:hover, #sun:hover{
+    opacity: 0.5;
+    cursor: pointer;
+}
+
+#thu {
+    height: 85px;
+}
+
+#fri {
+    height: 65px;
+}
+
+#sat {
+    height: 125px;
+}
+
+#sun {
+    height: 70px;
+}
