@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/expenses-chart-component-main/static/css/main.ff8588f5.css",
-    "main.js": "/expenses-chart-component-main/static/js/main.cbf2dae6.js",
+    "main.js": "/expenses-chart-component-main/static/js/main.40435a21.js",
     "index.html": "/expenses-chart-component-main/index.html",
     "main.ff8588f5.css.map": "/expenses-chart-component-main/static/css/main.ff8588f5.css.map",
-    "main.cbf2dae6.js.map": "/expenses-chart-component-main/static/js/main.cbf2dae6.js.map"
+    "main.40435a21.js.map": "/expenses-chart-component-main/static/js/main.40435a21.js.map"
   },
   "entrypoints": [
     "static/css/main.ff8588f5.css",
-    "static/js/main.cbf2dae6.js"
+    "static/js/main.40435a21.js"
   ]
 }
