@@ -1,0 +1,1 @@
+o componente filho vai enviar um número relacionado a ele, pra que o componente pai pegue esse número e coloque como props pro filho. O resto da lógica já está no código.
